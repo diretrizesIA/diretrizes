@@ -2,25 +2,34 @@ a { color:#5D5D9E; }
 a:visited { color:#5D5D9E; } 
 a:active { color:#5C615E; } 
 a:hover { color:#B2B3B4; } 
-body { background-color:#737373; padding:0;  margin: 0; }
-.textstyle1 { text-align:center; }
-.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#container_48303f72 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:70px; max-width:1024px; background-color:#404040;  }
-.textstyle3 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; line-height: 1.5;  }
-#container_61aa482 { vertical-align: top; position:relative; display: inline-block; width:75%; min-height:123px; max-width:800px; background:none;  }
-#container_61aa482_padding { margin: 10px; display: block;  }
-#button_42f466dc { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; margin:20px; width:150px; height:59px; background-color:#DF6262; border: 4px solid #404040;  }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_4a864783 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#259AED; background: linear-gradient(to bottom, #093CD4, #259AED);  }
+#container_4a864783_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:36pt; font-family:Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', sans-serif-condensed, sans-serif; color:#FFFFFF;  }
+.textstyle4 { font-size:36pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#shapedivider_6b364148 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:32px; background:none;  }
+#shapedivider_6b364148_padding { margin: 10px; display: block; position: relative;  }
+#container_757fc71c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:274px; max-width:1200px; background:none;  }
+#container_757fc71c_padding { margin: 10px; display: block;  }
+#container_5b3afa51 { position:absolute; left:28%; top:11%; width:46%; min-height:78px; max-width:800px; background:none;  }
+#container_5b3afa51_padding { margin: 10px; display: block;  }
+#button_5b22c42e { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:52px; background-color:#EA6363; background: linear-gradient(to bottom, #F4ACAC, #EA6363); box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
-#button_6fc61b5 { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; margin:20px; width:150px; height:60px; background-color:#5353BB; border: 4px solid #404040;  }
-.textstyle4 { text-align:left; }
-#button_e386fb8 { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; margin:20px; width:150px; height:59px; background-color:#53B753; border: 4px solid #404040;  }
-#button_50c99fc5 { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; margin:20px; width:150px; height:60px; background-color:#808080; border: 4px solid #404040;  }
-.textstyle5 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold; line-height: 1.5;  }
-#container_49895880 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:70px; max-width:1024px; background-color:#232323;  }
-#container_7019960e { vertical-align: top; position:relative; display: inline-block; width:78%; min-height:276px; max-width:800px; background:none;  }
-#container_7019960e_padding { margin: 10px; display: block;  }
-.ulstyle1 { margin:0; font-size: 12pt; color:#FFFFFF;  }
-.textstyle6 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; line-height: 1.5;  }
-.textstyle7 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold; line-height: 1.5;  }
-.textstyle8 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#button_637542e9 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; margin:0px 0px 0px 20px; width:150px; height:52px; background-color:#62BCEA; background: linear-gradient(to bottom, #ACF1F4, #62BCEA); box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#button_3f964b56 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; margin:0px 0px 0px 20px; width:150px; height:52px; background-color:#62EA79; background: linear-gradient(to bottom, #C4F6CB, #62EA79); box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#container_59bce299 { position:absolute; left:28%; top:46%; width:46%; min-height:90px; max-width:800px; background:none;  }
+#container_59bce299_padding { margin: 10px; display: block;  }
+#button_1c4ecbc4 { border-radius: 5px; position:absolute; left:34%; top:23%; width:150px; height:52px; background-color:#DADADA; background: linear-gradient(to bottom, #C4C4C4, #DADADA); box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#container_5405cb1f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_5405cb1f_padding { margin: 10px; display: block;  }
+.ulstyle1 { margin:0; font-size: 12pt; color:#000000;  }
+.textstyle6 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000;  }
+.textstyle7 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold;  }
+#shapedivider_1669005b { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:32px; background:none;  }
+#shapedivider_1669005b_padding { margin: 10px; display: block; position: relative;  }
+#container_2a6791f0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:237px; background-color:#740FD6; background: linear-gradient(to bottom, #612AEE, #740FD6);  }
+#container_2a6791f0_padding { margin: 30px; display: block;  }
